@@ -2,3 +2,4 @@
 - script that prints the the list of your current working directory
 - script that takes you back to user home directory
 - script that prints long list of directory content
+- script that prints both hidden files
