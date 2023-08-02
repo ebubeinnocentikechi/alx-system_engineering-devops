@@ -4,3 +4,4 @@
 - script that prints long list of directory content
 - script that prints both hidden files
 - script that prints contents of dir with user and group ids numerically
+- script that creates a file in tmp dir
