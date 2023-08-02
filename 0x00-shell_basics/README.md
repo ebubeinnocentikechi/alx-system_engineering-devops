@@ -8,3 +8,5 @@
 - script that moves file
 - script that deletes file
 - script that deletes dir
+- script tha returns to previous dir
+- script that list files in current parent and /boot dir
