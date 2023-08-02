@@ -1,2 +1,3 @@
 - script that prints the absolute path name of your current working directory
 - script that prints the the list of your current working directory
+- script that takes you back to user home directory
