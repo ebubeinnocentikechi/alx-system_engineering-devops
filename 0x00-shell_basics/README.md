@@ -6,3 +6,4 @@
 - script that prints contents of dir with user and group ids numerically
 - script that creates a dir in tmp dir
 - script that moves file
+- script that deletes file
