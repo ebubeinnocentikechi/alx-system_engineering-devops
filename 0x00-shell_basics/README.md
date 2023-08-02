@@ -7,3 +7,4 @@
 - script that creates a dir in tmp dir
 - script that moves file
 - script that deletes file
+- script that deletes dir
